@@ -1,6 +1,5 @@
 # arduino-styrofoam-VR
-
-![](vr_headset_photo.png)
+<img src="vr_headset_photo.png" width="20%" height="20%">
 
 A prototype DIY VR headset project requiring only Arduino Nano, MPU6050, a phone display, biconvex lenses, and some styrofoam. Compatible with SteamVR.
 
